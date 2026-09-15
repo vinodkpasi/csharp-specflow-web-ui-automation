@@ -1,0 +1,31 @@
+2023-02-11 18:16:50,821 [14] INFO SpecFlowExpertLevelCertification.Utils.Util - User Navigate to the application url
+2023-02-11 18:17:41,054 [12] INFO SpecFlowExpertLevelCertification.Utils.Util - User Navigate to the application url
+2023-02-11 18:17:47,842 [12] INFO SpecFlowExpertLevelCertification.Utils.Util - User open the cart
+2023-02-11 18:17:53,367 [12] INFO SpecFlowExpertLevelCertification.Utils.Util - Verify that page title should be Amazon.in Shopping Cart
+2023-02-11 18:17:53,518 [12] INFO SpecFlowExpertLevelCertification.Utils.Util - Cart header is displayed as Your Amazon Cart is empty
+2023-02-11 18:17:53,753 [12] INFO SpecFlowExpertLevelCertification.Utils.Util - Verify cart is displayed with 0 items added
+2023-02-11 18:18:04,759 [12] INFO SpecFlowExpertLevelCertification.Utils.Util - User Navigate to the application url
+2023-02-11 18:18:12,701 [12] INFO SpecFlowExpertLevelCertification.Utils.Util - Verify cart icon is displayed
+2023-02-11 18:18:13,291 [12] INFO SpecFlowExpertLevelCertification.Utils.Util - Verify cart is displayed with 0 items added
+2023-02-11 18:18:25,073 [12] INFO SpecFlowExpertLevelCertification.Utils.Util - User Navigate to the application url
+2023-02-11 18:18:31,803 [12] INFO SpecFlowExpertLevelCertification.Utils.Util - Verify that page title should be Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+2023-02-11 18:18:31,943 [12] INFO SpecFlowExpertLevelCertification.Utils.Util - Verify cart icon is displayed
+2023-02-11 18:18:33,068 [12] INFO SpecFlowExpertLevelCertification.Utils.Util - Verify search box and search button is displayed
+2023-02-11 18:18:44,264 [12] INFO SpecFlowExpertLevelCertification.Utils.Util - User Navigate to the application url
+2023-02-11 18:18:52,097 [12] INFO SpecFlowExpertLevelCertification.Utils.Util - User search the Samsung mobile
+2023-02-11 18:19:01,744 [12] INFO SpecFlowExpertLevelCertification.Utils.Util - Verify search result should be displayed
+2023-02-11 18:19:01,953 [12] INFO SpecFlowExpertLevelCertification.Utils.Util - User open the first search result
+2023-02-11 18:19:14,865 [12] INFO SpecFlowExpertLevelCertification.Utils.Util - User click on the add to the cart button
+2023-02-11 18:19:21,412 [12] INFO SpecFlowExpertLevelCertification.Utils.Util - Verify cart is displayed with 1 items added
+2023-02-11 18:19:33,852 [12] INFO SpecFlowExpertLevelCertification.Utils.Util - User Navigate to the application url
+2023-02-11 18:19:40,531 [12] INFO SpecFlowExpertLevelCertification.Utils.Util - User search the Samsung mobile
+2023-02-11 18:19:48,510 [12] INFO SpecFlowExpertLevelCertification.Utils.Util - Verify search result should be displayed
+2023-02-11 18:19:48,733 [12] INFO SpecFlowExpertLevelCertification.Utils.Util - User open the first search result
+2023-02-11 18:20:00,923 [12] INFO SpecFlowExpertLevelCertification.Utils.Util - User click on the add to the cart button
+2023-02-11 18:20:06,589 [12] INFO SpecFlowExpertLevelCertification.Utils.Util - Verify cart is displayed with 1 items added
+2023-02-11 18:20:07,214 [12] INFO SpecFlowExpertLevelCertification.Utils.Util - User open the cart
+2023-02-11 18:20:11,920 [12] INFO SpecFlowExpertLevelCertification.Utils.Util - Verify the product name and price
+2023-02-11 18:20:24,899 [12] INFO SpecFlowExpertLevelCertification.Utils.Util - User Navigate to the application url
+2023-02-11 18:20:32,359 [12] INFO SpecFlowExpertLevelCertification.Utils.Util - User enter Samsung mobile in the search box
+2023-02-11 18:20:34,373 [12] INFO SpecFlowExpertLevelCertification.Utils.Util - User click on the search button
+2023-02-11 18:20:40,907 [12] INFO SpecFlowExpertLevelCertification.Utils.Util - Verify search result should be displayed
